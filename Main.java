@@ -5,12 +5,6 @@ import java.util.Scanner;
 
 //Hackerrank - Birthday candles
 
-/**
- * Two scanners: First to take age, second to take candle heights
- * myInts variable holds the inputted candle heights
- * sortCandles sorts the candles in ascending order
- * tallestCandle checks how many of the tallest candles are present
- */
 public class Main {
 
     public static void main(String[] args) {
